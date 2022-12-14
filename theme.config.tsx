@@ -3,8 +3,8 @@ import { useRouter } from 'next/router'
 import { DocsThemeConfig, useConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  project: { link: 'https://github.com/sozonome' },
-  docsRepositoryBase: 'https://github.com/sozonome/my-base',
+  project: { link: 'https://github.com/4ndrexyz' },
+  docsRepositoryBase: 'https://github.com/4ndrexyz/Andrexyz',
   useNextSeoProps: () => {
     const { frontMatter } = useConfig()
 
@@ -53,44 +53,44 @@ const config: DocsThemeConfig = {
         />
         <meta name="og:type" content="website" />
         <meta property="og:locale" content="en_IE" />
-        <meta property="og:site_name" content="Base | sozonome" />
+        <meta property="og:site_name" content="4ndrexyz" />
         <meta name="og:description" content="Base: sozonome's knowledge base" />
         <meta name="og:image" content={ogImgLink} />
-        <meta name="og:url" content={`https://base.sznm.dev${router.asPath}`} />
+        <meta name="og:url" content={`https://home.codenime.xyz${router.asPath}`} />
 
         <meta name="apple-mobile-web-app-title" content="Base" />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="/icon/apple-icon-180x180.png"
+          href="/icon/home.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="192x192"
-          href="/icon/android-icon-192x192.png"
+          href="/icon/home.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="/icon/favicon-32x32.png"
+          href="/icon/home.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="96x96"
-          href="/icon/favicon-96x96.png"
+          href="/icon/home.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="/icon/favicon-16x16.png"
+          href="/icon/home.png"
         />
         <meta
           name="msapplication-TileImage"
-          content="/icon/ms-icon-144x144.png"
+          content="/icon/home.png"
         />
       </>
     )
@@ -98,7 +98,7 @@ const config: DocsThemeConfig = {
   darkMode: true,
   primaryHue: { light: 0, dark: 156 },
   chat: {
-    link: 'https://twitter.com/sozonome',
+    link: 'https://twitter.com/andrexyz_',
     icon: (
       <svg width="24" height="24" viewBox="0 0 248 204">
         <path
@@ -136,7 +136,7 @@ const config: DocsThemeConfig = {
       <div>
         2020 - {new Date().getFullYear()} |{' '}
         <a
-          href="https://sznm.dev"
+          href="https://codenime.xyz"
           target="_blank"
           rel="noopener noreferrer"
           className="nx-underline nx-underline-offset-4 nx-font-bold"
