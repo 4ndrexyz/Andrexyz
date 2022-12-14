@@ -6,4 +6,4 @@ Selamat datang di personal website saya, web ini hanya berisikan sebuah meta dat
 bagi saya. Jadi saya anggap ini sebagai rumah 😅
 
 Sitemap :
-[**Bookmarks**](/bookmarks) | [**Development**](/development) | [misc](/misc/feedbacks)
+[**Bookmarks**](/bookmarks) | [**Development**](/development) | [**misc**](/misc/feedbacks)

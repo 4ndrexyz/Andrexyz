@@ -1,8 +1,8 @@
 {
-  "name": "base",
+  "name": "home",
   "version": "1.2.0",
-  "description": "sozonome's personal knowledge base",
-  "author": "sozonome",
+  "description": "4ndrexyz personal website",
+  "author": "4ndrexyz",
   "main": "index.js",
   "scripts": {
     "dev": "next",
