@@ -1,0 +1,46 @@
+{
+  "name": "base",
+  "version": "1.2.0",
+  "description": "sozonome's personal knowledge base",
+  "author": "sozonome",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build",
+    "format": "prettier --write pages",
+    "release": "standard-version",
+    "push-release": "git push --follow-tags origin main",
+    "up": "yarn upgrade-interactive",
+    "up-latest": "yarn up --latest",
+    "up-next": "yarn up --next",
+    "up-alpha": "yarn up --alpha",
+    "up-beta": "yarn up --beta",
+    "pre-commit": "lint-staged",
+    "prepare": "husky install"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.0.6",
+    "nextra": "2.0.1",
+    "nextra-theme-docs": "2.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "critters": "^0.0.16",
+    "husky": "^8.0.2",
+    "lint-staged": "^13.0.4",
+    "prettier": "^2.8.0",
+    "standard-version": "^9.5.0"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "lint-staged": {
+    "pages/**/*.{js,jsx,ts,tsx,md,css}": [
+      "prettier --write"
+    ]
+  }
+}
