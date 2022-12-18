@@ -1,6 +1,6 @@
 # 4ndrexyz
 
-<img src="/images/avatar.jpeg" style="witdh: 30px; height= 30px;">
+<img src="/images/avatar.jpeg" alt="4ndrexyz" style="height: 100px; width:100px;"/>
 
 Hallo, ini merupakan website pribadi saya, website ini hanya berisi memory saya.
 
