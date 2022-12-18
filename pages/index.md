@@ -1,9 +1,8 @@
-# hello 👋
+# 4ndrexyz
 
-![4ndrexyz](/images/avatar.jpeg "4ndrexyz")
+<img src="/images/avatar.jpeg" style="witdh: 30px; height= 30px;">
 
-Selamat datang di personal website saya, web ini hanya berisikan sebuah meta data
-bagi saya. Jadi saya anggap ini sebagai rumah 😅
+Hallo, ini merupakan website pribadi saya, website ini hanya berisi memory saya.
 
 Sitemap :
 [**Bookmarks**](/bookmarks) | [**Development**](/development) | [**misc**](/misc/feedbacks)
