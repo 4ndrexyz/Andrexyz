@@ -9,12 +9,12 @@ const config: DocsThemeConfig = {
     const { frontMatter } = useConfig()
 
     const defaultTitle =
-      frontMatter.overrideTitle || "Base: sozonome's knowledge base"
+      frontMatter.overrideTitle || "Home: 4ndrexyz Personal Web"
 
     return {
       description: frontMatter.description,
       defaultTitle,
-      titleTemplate: `%s | Base`,
+      titleTemplate: `4ndrexyz`,
     }
   },
   head: () => {
@@ -23,10 +23,10 @@ const config: DocsThemeConfig = {
 
     const ogImgLink = encodeURI(
       `https://og.sznm.dev/api/generate?heading=${
-        title ?? 'Base%20%7C%20sozonome'
+        title ?? 'Home%20%7C%204ndrexyz'
       }&text=${
         title
-          ? "Base | sozonome's knowledge base"
+          ? "Home | 4ndrexyz Personal Web"
           : 'Personal%20Knowledge%20Base'
       }`
     )
@@ -37,24 +37,24 @@ const config: DocsThemeConfig = {
         <meta name="theme-color" content="#ffffff" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta httpEquiv="Content-Language" content="en" />
-        <meta name="description" content="Base: sozonome's knowledge base" />
+        <meta name="description" content="Home: 4ndrexyz Personal Web" />
 
         {/* Twitter Meta */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content={ogImgLink} />
-        <meta name="twitter:site:domain" content="base.sznm.dev" />
-        <meta name="twitter:url" content="https://base.sznm.dev" />
-        <meta name="twitter:creator" content="@sozonome" />
+        <meta name="twitter:site:domain" content="home.codenime.xyz" />
+        <meta name="twitter:url" content="https://home.codenime.xyz" />
+        <meta name="twitter:creator" content="@andrexyz" />
 
         {/* OpenGraph Meta */}
         <meta
           name="og:title"
-          content={title ?? "Base: sozonome's knowledge base"}
+          content={title ?? "Home: 4ndrexyz Personal Web"}
         />
         <meta name="og:type" content="website" />
         <meta property="og:locale" content="en_IE" />
         <meta property="og:site_name" content="4ndrexyz" />
-        <meta name="og:description" content="Base: sozonome's knowledge base" />
+        <meta name="og:description" content="Home: 4ndrexyz Personal Web" />
         <meta name="og:image" content={ogImgLink} />
         <meta name="og:url" content={`https://home.codenime.xyz${router.asPath}`} />
 
@@ -111,8 +111,8 @@ const config: DocsThemeConfig = {
   banner: {
     key: 'wussh-olamonde-rename',
     text: (
-      <a href="https://wus.sh" target="_blank">
-        🎉 olamonde is rebranded as wussh. Check it out →
+      <a href="https://www.codenime.xyz" target="_blank">
+        Kunjungi website <b>codenime</b> untuk kamu yang ingin belajar Coding  →
       </a>
     ),
   },
@@ -126,8 +126,8 @@ const config: DocsThemeConfig = {
   },
   logo: (
     <>
-      <span className="nx-mr-2 nx-font-extrabold md:nx-inline">Base</span>
-      <span className="text-gray-600 font-normal md:inline">sozonome</span>
+      <span className="nx-mr-2 nx-font-extrabold md:nx-inline">Home</span>
+      <span className="text-gray-600 font-normal md:inline">4ndrexyz</span>
     </>
   ),
   editLink: { text: 'Edit this page →' },
@@ -136,24 +136,13 @@ const config: DocsThemeConfig = {
       <div>
         2020 - {new Date().getFullYear()} |{' '}
         <a
-          href="https://codenime.xyz"
+          href="https://home.codenime.xyz"
           target="_blank"
           rel="noopener noreferrer"
           className="nx-underline nx-underline-offset-4 nx-font-bold"
         >
-          sozonome
+          4ndrexyz
         </a>
-        <p className="nx-text-sm nx-text-gray-500">
-          Feel free to let me know if there are some content which are outdated
-          / need to be updated{' '}
-          <a
-            href="mailto:hello@sznm.dev?subject=base.sznm.dev&body=which-page-url-and-give-some-details-of-your-request-or-question"
-            className="nx-underline nx-underline-offset-4"
-          >
-            here
-          </a>
-          .
-        </p>
       </div>
     ),
   },
