@@ -5,4 +5,4 @@ This is my personal website, I use this website to store things that are importa
 Sitemap :
 [**Memory**](/memory) | [**Dev**](/dev) | [**Me**](/me)
 
-![https://lukaszadam.com/](/images/image.svg "Image By: UnDraw"){ width=50% }
+![UnDraw.com](/images/image.svg "Image By: UnDraw"){: width=150 height=100 } 
