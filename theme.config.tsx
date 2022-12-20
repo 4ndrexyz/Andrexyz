@@ -134,14 +134,14 @@ const config: DocsThemeConfig = {
   footer: {
     text: (
       <div>
-        2020 - {new Date().getFullYear()} |{' '}
+        2020 - {new Date().getFullYear()} | Made with &hearts; by {' '} 
         <a
           href="https://home.codenime.xyz"
           target="_blank"
           rel="noopener noreferrer"
           className="nx-underline nx-underline-offset-4 nx-font-bold"
         >
-          Made with &hearts; by 4ndrexyz
+          4ndrexyz
         </a>
       </div>
     ),
