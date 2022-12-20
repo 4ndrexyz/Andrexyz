@@ -141,7 +141,7 @@ const config: DocsThemeConfig = {
           rel="noopener noreferrer"
           className="nx-underline nx-underline-offset-4 nx-font-bold"
         >
-          Made with &hearts; 4ndrexyz
+          Made with &hearts; by 4ndrexyz
         </a>
       </div>
     ),
