@@ -23,6 +23,7 @@ html {
 img[src*="#thumbnail"] {
   width:500px;
   height:500px;
-  align-items: center;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
