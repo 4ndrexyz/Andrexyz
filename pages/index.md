@@ -5,4 +5,4 @@ I am Andre Kusuma Firmansah or you are called Andre. I graduated from Vocational
 Sitemap :
 [**Memory**](/memory) | [**Dev**](/dev) | [**Me**](/me)
 
-![iconscout.com](/public/images/blog-writer.png "Image By: iconscout.com")
+![iconscout.com](/images/blog-writer.png "Image By: iconscout.com")
