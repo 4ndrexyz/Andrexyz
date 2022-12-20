@@ -5,4 +5,4 @@ This is my personal website, I use this website to store things that are importa
 Sitemap :
 [**Memory**](/memory) | [**Dev**](/dev) | [**Me**](/me)
 
-![https://lukaszadam.com/](https://lukaszadam.com/assets/downloads/desk-illustration-2.svg "Image By: lukaszadam.com")
+![https://lukaszadam.com/](/images/Developer%20activity.gif "Image By: Storyset")
