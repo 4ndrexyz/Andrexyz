@@ -19,3 +19,8 @@ h6 {
 html {
   font-family: 'Outfit' !important;
 }
+
+img[src*="#thumbnail"] {
+  width:150px;
+  height:100px;
+}
