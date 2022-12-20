@@ -5,4 +5,4 @@ This is my personal website, I use this website to store things that are importa
 Sitemap :
 [**Memory**](/memory) | [**Dev**](/dev) | [**Me**](/me)
 
-![UnDraw.com](/images/image.svg#thumbnail "Image By: UnDraw")} 
+![UnDraw.com](/images/image.svg#thumbnail "Image By: UnDraw")

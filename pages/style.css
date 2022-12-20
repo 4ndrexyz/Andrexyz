@@ -21,6 +21,8 @@ html {
 }
 
 img[src*="#thumbnail"] {
-  width:150px;
-  height:100px;
+  width:500px;
+  height:500px;
+  align-items: center;
+  text-align: center;
 }
