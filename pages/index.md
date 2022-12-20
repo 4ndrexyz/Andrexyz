@@ -1,8 +1,8 @@
-# Selamat Datang 
+# Hei! Welcome 👋
 
-Perkenalkan saya Andre, dan ini adalah personal web saya
+I am Andre Kusuma Firmansah or you are called Andre. I graduated from Vocational High School 9 Semarang City majoring in Software Engineering or RPL and I am a web development and web designer in Semarang City.
 
 Sitemap :
-[**Memory**](/memory) | [**Dev**](/dev) | [**Me**](/me/hello)
+[**Memory**](/memory) | [**Dev**](/dev) | [**Me**](/me)
 
-![lukaszadam.com](https://lukaszadam.com/wordpress-icons.svg "Source: lukaszadam.com")
+![iconscout.com](/public/images/write.eps "Image By: iconscout.com")
