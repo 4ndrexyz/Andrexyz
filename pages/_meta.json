@@ -1,6 +1,6 @@
 {
   "index": { "title": "Home", "type": "page", "hidden": true },
-  "bookmarks": { "title": "Bookmarks", "type": "page" },
-  "development": { "title": "Dev", "type": "page" },
-  "misc": { "title": "misc", "type": "page" }
+  "memory": { "title": "Memory", "type": "page" },
+  "dev": { "title": "Dev", "type": "page" },
+  "me": { "title": "Me", "type": "page" }
 }

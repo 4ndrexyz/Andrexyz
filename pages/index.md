@@ -1,8 +1,8 @@
-# 4ndrexyz
+# Selamat Datang 
 
-![lukaszadam.com](https://lukaszadam.com/wordpress-icons.svg "Source: lukaszadam.com")
-
-Hallo, ini merupakan website pribadi saya, website ini hanya berisi memory saya.
+Perkenalkan saya Andre, dan ini adalah personal web saya
 
 Sitemap :
-[**Bookmarks**](/bookmarks) | [**Development**](/development) | [**misc**](/misc/feedbacks)
+[**Memory**](/memory) | [**Dev**](/dev) | [**Me**](/me/hello)
+
+![lukaszadam.com](https://lukaszadam.com/wordpress-icons.svg "Source: lukaszadam.com")
